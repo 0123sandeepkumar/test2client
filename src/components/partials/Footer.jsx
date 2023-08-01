@@ -35,7 +35,7 @@ export default function Example() {
       <div className="mx-auto  w-full max-w-7xl px-8 py-8">
         <div className="grid grid-cols-1 justify-between gap-4 md:grid-cols-2">
           <Typography variant="h5" className="mb-6 text-black">
-          <AccountTreeIcon /> Xery Blog
+          <AccountTreeIcon /> Sandeep Blog
           </Typography>
           <div className="grid grid-cols-3 justify-between gap-4">
             {LINKS.map(({ title, items }) => (
@@ -70,11 +70,11 @@ export default function Example() {
             variant="small"
             className="mb-4 text-center font-normal text-blue-gray-900 md:mb-0"
           >
-            &copy; {currentYear} <a href="https://www.linkedin.com/in/abubakar-shaikh-dev/" target="_blank">Abubakar Shaikh</a>
+            &copy; {currentYear} <a href="https://www.linkedin.com/in/sandeep-kumar-40747b169/" target="_blank">Sandeep Kumar</a>
           </Typography>
           <div className="flex gap-4 text-blue-gray-900 sm:justify-center">
             
-            <Typography as="a" href="https://www.instagram.com/abubakarshaikh.dev/" target="_blank" className="opacity-80 transition-opacity hover:opacity-100">
+            <Typography as="a" href="https://www.instagram.com/" target="_blank" className="opacity-80 transition-opacity hover:opacity-100">
               <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fillRule="evenodd"
@@ -84,7 +84,7 @@ export default function Example() {
               </svg>
             </Typography>
             
-            <Typography as="a" href="https://github.com/abubakar-shaikh-dev" target="_blank" className="opacity-80 transition-opacity hover:opacity-100">
+            <Typography as="a" href="https://github.com/0123sandeepkumar" target="_blank" className="opacity-80 transition-opacity hover:opacity-100">
               <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fillRule="evenodd"
@@ -94,7 +94,7 @@ export default function Example() {
               </svg>
             </Typography>
 
-            <Typography as="a" href="https://www.linkedin.com/in/abubakar-shaikh-dev/" target="_blank" className="opacity-80 transition-opacity hover:opacity-100">
+            <Typography as="a" href="https://www.linkedin.com/in/sandeep-kumar-40747b169/" target="_blank" className="opacity-80 transition-opacity hover:opacity-100">
             <svg
               className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
             >

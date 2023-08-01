@@ -17,22 +17,22 @@ const About = () => {
             </div>
           </Link>
           <h5 className="mb-4 text-4xl font-extrabold leading-none">
-            XERY BLOG
+            Sandeep BLOG
           </h5>
           <p className="mb-6 text-gray-900">
-            At Xery Blog, we are passionate about creating a dynamic space for
+            At Sandeep Blog, we are passionate about creating a dynamic space for
             bloggers like you to share your thoughts, ideas, and experiences
             with the world. Our platform is designed to empower writers of all
             levels and backgrounds, providing them with the tools and resources
             to craft compelling and engaging blog posts. Whether you want to
             express your creativity, share your expertise, or simply connect
-            with a global community, XERY BLOG APP is the perfect platform for
+            with a global community, Sandeep BLOG APP is the perfect platform for
             you.
           </p>
           <hr className="mb-5 border-gray-300" />
           <div className="flex items-center space-x-4">
             <a
-              href="https://www.instagram.com/abubakarshaikh.dev/"
+              href="https://www.instagram.com/"
               target="_blank"
               className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
@@ -43,7 +43,7 @@ const About = () => {
             </a>
 
             <a
-              href="https://github.com/abubakar-shaikh-dev"
+              href="https://github.com/0123sandeepkumar"
               target="_blank"
               className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
@@ -62,7 +62,7 @@ const About = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/abubakar-shaikh-dev/"
+              href="https://www.linkedin.com/in/sandeep-kumar-40747b169/"
               target="_blank"
               className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
